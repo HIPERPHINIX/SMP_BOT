@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "ENDY_wasTaken.exaroton.me:29945",
+    "port": 29945,
     "version": "1.21.1"
   },
   "position": {
