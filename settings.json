@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BOT 2.0",
   "bot-account": {
-    "username": "SMP_BOT",
+    "username": "BOT_2.0",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ENDY_wasTaken.exaroton.me:29945",
-    "port": 29945,
+    "ip": "ROYAL_SMP_MC.aternos.me:37429",
+    "port": 37429,
     "version": "1.21.1"
   },
   "position": {
